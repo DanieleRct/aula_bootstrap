@@ -1,0 +1,32 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #60AD9D;
+}
+
+.quem-somos {
+    background-color: rgb(168, 235, 213);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;    
+}
+
+.parceiros {
+    background-color: #30a1a1;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.servicos{
+    background-color: rgb(168, 235, 213);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bg-footer {
+    background-color: black;
+    color:white;
+}
